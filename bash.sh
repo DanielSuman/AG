@@ -49,3 +49,6 @@ mkdir usb-flashdisk
 
 # zkopíruje rekurzivně všechny adresáře a soubory do usb flashdisk
 cp -R moje-dulezite-soubory/* usb-flashdisk
+
+# stáhne stránku
+wget seznam.cz
