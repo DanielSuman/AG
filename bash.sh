@@ -69,3 +69,11 @@ wget facebook.com
 cd
 tree websites
 history
+
+# příkazy
+sort #vypíše zapsané věci podle abecedy
+head #vypíše prvních 10 řádků souboru, dá se použít parametr pro jiný počet
+tail #vypíše 10 posledních řádků souboru, dá se použít parametr pro jiný počet
+less #otevře soubor, umožňuje navigovat skrze texty nahoru i dolu
+more #umožňuje vám prohlížet si určitou část kodu, pokud chcete vidět víc, stačí dát enter
+cat #nejznámější využití tohoto příkazu je převedení obsahu souboru na standardní typ výstupu, krom toho umožňuje do souboru ještě něco psát
